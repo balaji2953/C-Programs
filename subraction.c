@@ -1,11 +1,9 @@
 #include<stdio.h>
-#include<conio.h>
-void main()
+int main()
 {
-    int a=50;
-    int b=25;
-    c=a-b;
+    int a=15,b=5,c;
+    c=a+b;
     printf("%d",c);
-    getch();
+    return 0;
     
 }
